@@ -1,4 +1,4 @@
-# EE267 Computer Vision Labs - Fall 2025
+# EE267 AUtonomous Vehicle Labs - Fall 2025
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
