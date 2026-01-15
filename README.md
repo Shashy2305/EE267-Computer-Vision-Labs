@@ -8,7 +8,7 @@ Comprehensive repository for all EE267 Computer Vision lab assignments completed
 
 ## 📚 Course Information
 
-- **Course**: EE267 - Computer Vision
+- **Course**: EE267 - Autonomous Vehicle
 - **Semester**: Fall 2025
 - **Institution**: University of California, Riverside
 - **Instructor**: [Course Instructor Name]
